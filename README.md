@@ -2,15 +2,24 @@
 
 <!--
 **ExtrmHighC/ExtrmHighC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+```csharp
+const string message = "Hello! Welcome to my github page!";
+
+public static void WelcomeMessage(string message)
+{
+    Console.WriteLine(message);
+    Console.ReadLine(); 
+}
+
+static void Main(string[] args)
+{
+    WelcomeMessage(message); 
+}
+ ```
+- 🔭 I’m currently working on: Many mini projects!
+- 🖥️ I currently know: Lua, Javascript, C# - .NET Framework
+- 🌱 I’m currently learning: Blazor framework!
+- 👯 I’m looking to collaborate on: Anything FiveM related :) 
+- 🤔 I’m looking for help with: Nothing at the moment!
