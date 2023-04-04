@@ -20,6 +20,6 @@ static void Main(string[] args)
  ```
 - 🔭 I’m currently working on: Many mini projects!
 - 🖥️ I currently know: Lua, Javascript, C# - .NET Framework
-- 🌱 I’m currently learning: Blazor framework / little of C++ !
+- 🌱 I’m currently learning: Rust!  
 - 👯 I’m looking to collaborate on: Anything FiveM related :) 
 - 🤔 I’m looking for help with: Nothing at the moment!
