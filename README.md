@@ -15,7 +15,7 @@ public static void WelcomeMessage(string msg)
 
 static void Main(string[] args)
 {
-    WelcomeMessage(msg); 
+    WelcomeMessage(message); 
 }
  ```
 - 🔭 I’m currently working on: Many mini projects!
