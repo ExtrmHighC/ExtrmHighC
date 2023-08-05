@@ -7,15 +7,15 @@
 ```csharp
 const string message = "Hello! Welcome to my github page!";
 
-public static void WelcomeMessage(string message)
+public static void WelcomeMessage(string msg)
 {
-    Console.WriteLine(message);
+    Console.WriteLine(msg);
     Console.ReadLine(); 
 }
 
 static void Main(string[] args)
 {
-    WelcomeMessage(message); 
+    WelcomeMessage(msg); 
 }
  ```
 - 🔭 I’m currently working on: Many mini projects!
