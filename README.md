@@ -13,7 +13,7 @@ public static void WelcomeMessage(string msg)
     Console.ReadLine(); 
 }
 
-static void Main(string[] args)
+public static void Main(string[] args)
 {
     WelcomeMessage(message); 
 }
